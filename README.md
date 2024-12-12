@@ -1,2 +1,2 @@
-# Hand_Detect
-RPI-CAM 손 검출 이벤트 프록램
+# HAND_DETECT
+RPICAM-hand detect입니다.
